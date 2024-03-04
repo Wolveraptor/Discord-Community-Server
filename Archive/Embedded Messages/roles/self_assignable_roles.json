@@ -1,0 +1,22 @@
+{
+    "embeds": [
+        {
+            "thumbnail": {
+                "url": "https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_server_icon.png"
+            },
+            "author": {
+                "icon_url": "https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_jarvis_icon.png",
+                "name": "J.A.R.V.I.S"
+            },
+            "fields": [
+                {
+                    "name": "Self-Assignable Roles",
+                    "value": "Libertas vel Mors provides self-assignable roles.\n\nPrior to being able to assign yourself roles from this channel, you must first agree to and accept the rules of the community.\n\nTo agree to and accept the rules, click the :white_check_mark: emoji at the bottom of the message [here](https://discord.com/channels/1190406648259432448/1195548408182743161/1195548746574991400).",
+                    "inline": false
+                }
+            ],
+            "color": 1401821,
+            "title": "Roles"
+        }
+    ]
+}

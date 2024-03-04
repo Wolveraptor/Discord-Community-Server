@@ -1,0 +1,27 @@
+{
+    "embeds": [
+        {
+            "thumbnail": {
+                "url": "https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_server_icon.png"
+            },
+            "author": {
+                "icon_url": "https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_jarvis_icon.png",
+                "name": "J.A.R.V.I.S"
+            },
+            "fields": [
+                {
+                    "name": "Rules",
+                    "value": "1. Follow [Discord's Terms of Service](https://discord.com/terms).\n2. Follow [Discord's Community Guidelines](https://discord.com/guidelines).\n3. Follow [Discord's Partnership Code of Conduct](https://support.discord.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct).\n4. English-only in voice and text channels.",
+                    "inline": false
+                },
+                {
+                    "name": "Agree to and Accept",
+                    "value": "To agree to and accept the rules, click the **\":white_check_mark: Agree to and Accept Rules\"** button at the bottom of this message.",
+                    "inline": false
+                }
+            ],
+            "color": 1401821,
+            "title": "Libertas vel Mors"
+        }
+    ]
+}
