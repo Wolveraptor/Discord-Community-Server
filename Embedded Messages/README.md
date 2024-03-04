@@ -27,7 +27,7 @@ Icons:
 * Header: ```MEE6```
 * Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Title: ```Libertas vel Mors```
-* "Write your message here!: N/A
+* "Write your message here!": N/A
 * Field 1 Name: ```Welcome to the Libertas vel Mors Discord community server!```
 * Field 1 Value:
     ```
@@ -64,7 +64,7 @@ Icons:
 * Header: ```MEE6```
 * Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Title: ```Libertas vel Mors```
-* "Write your message here!: N/A
+* "Write your message here!": N/A
 * Field 1 Name: ```Rules```
 * Field 1 Value:
     ```
