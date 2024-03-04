@@ -1,8 +1,8 @@
-# Libertas vel Mors - Discord Community Server
-Libertas vel Mors Discord community server GitHub repository.
+# Discord Community Server
+Discord community server GitHub repository.
 
 ## About this Repository
-This is my repository for storing information and configurations for the Libertas vel Mors Discord community server.
+This is my repository for storing information and configurations for my Discord community server.
 
 ![alttext](/Images/libertas_vel_mors_server_icon.png)
 
