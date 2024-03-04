@@ -16,6 +16,11 @@ Icons:
 
     ![alttext](/Images/mee6_icon.png)
 
+* Arcane Premium Icon
+    * ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/arcane_premium_icon.png```
+
+    ![alttext](/Images/arcane_premium_icon.png)
+
 ### 02/04/24 – 10:48 AM EST
 #### Libertas vel Mors
 * Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
