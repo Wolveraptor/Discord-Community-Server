@@ -1,8 +1,8 @@
 # Community Rules
-Libertas vel Mors Discord community server rules.
+Discord community server rules.
 
 ## About Categories and Channels
-This README.md serves as documentation and changelog for the Libertas vel Mors Discord community server community rules.
+This README.md serves as documentation and changelog for my Discord community server community rules.
 
 ![alttext](/Images/libertas_vel_mors_server_icon.png)
 

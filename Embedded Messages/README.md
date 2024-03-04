@@ -1,8 +1,8 @@
 # Embedded Messages
-Libertas vel Mors Discord community server embedded messages.
+Discord community server embedded messages.
 
 ## About Embedded Messages
-This README.md serves as documentation and changelog for the Libertas vel Mors Discord community server embedded messages.
+This README.md serves as documentation and changelog for my Discord community server embedded messages.
 
 ## Items to Note
 Icons:

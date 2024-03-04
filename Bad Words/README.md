@@ -1,8 +1,8 @@
 # Bad Words
-Libertas vel Mors Discord community server bad words.
+Discord community server bad words.
 
 ## About Bad Words
-This README.md serves as documentation and changelog for the Libertas vel Mors Discord community server bad words.
+This README.md serves as documentation and changelog for my Discord community server bad words.
 
 ![alttext](/Images/libertas_vel_mors_server_icon.png)
 

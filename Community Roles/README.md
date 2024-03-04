@@ -1,8 +1,8 @@
 # Community Roles
-Libertas vel Mors Discord community server roles.
+Discord community server roles.
 
 ## About Community Roles
-This README.md serves as documentation and changelog for the Libertas vel Mors Discord community server community roles.
+This README.md serves as documentation and changelog for my Discord community server community roles.
 
 ![alttext](/Images/libertas_vel_mors_server_icon.png)
 
