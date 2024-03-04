@@ -4,7 +4,7 @@ Discord community server rules.
 ## About Categories and Channels
 This README.md serves as documentation and changelog for my Discord community server community rules.
 
-![alttext](/Images/libertas_vel_mors_server_icon.png)
+![alttext](/Images/server_icon.png)
 
 ### 12/31/23 – 10:34 AM EST
 1. No doxxing or harassment (especially threats on someone’s life/property) or encouraging self-harm.

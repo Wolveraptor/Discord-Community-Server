@@ -4,7 +4,7 @@ Discord community server bad words.
 ## About Bad Words
 This README.md serves as documentation and changelog for my Discord community server bad words.
 
-![alttext](/Images/libertas_vel_mors_server_icon.png)
+![alttext](/Images/server_icon.png)
 
 ### 01/09/24 – 10:23 AM EST
 Formatted for use with Discord's AutoMod:

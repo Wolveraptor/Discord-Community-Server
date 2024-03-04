@@ -4,7 +4,7 @@ Discord community server GitHub repository.
 ## About this Repository
 This is my repository for storing information and configurations for my Discord community server.
 
-![alttext](/Images/libertas_vel_mors_server_icon.png)
+![alttext](/Images/server_icon.png)
 
 ## READMEs
 * [/Bad Words/README.md](/Bad%20Words/README.md)

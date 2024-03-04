@@ -4,7 +4,7 @@ Discord community server roles.
 ## About Community Roles
 This README.md serves as documentation and changelog for my Discord community server community roles.
 
-![alttext](/Images/libertas_vel_mors_server_icon.png)
+![alttext](/Images/server_icon.png)
 
 ### Master Spreadsheet
 * [/Community Roles/Community Roles.ods](/Community%20Roles/Community%20Roles.ods)
@@ -20,3 +20,6 @@ This README.md serves as documentation and changelog for my Discord community se
 
 ### 02/04/24 - 12:15 PM EST
 * [/Community Roles/Community Roles - 020424.csv](/Community%20Roles/Community%20Roles%20-%20020424.csv)
+
+### 03/03/24 - 9:00 PM EST
+* [/Community Roles/Community Roles - 030324.csv](/Community%20Roles/Community%20Roles%20-%20030324.csv)

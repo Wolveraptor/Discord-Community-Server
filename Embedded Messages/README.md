@@ -6,21 +6,21 @@ This README.md serves as documentation and changelog for my Discord community se
 
 ## Items to Note
 Icons:
-* Libertas vel Mors Server Icon
-    * ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_server_icon.png```
+* Server Icon
+    * ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/server_icon.png```
 
-    ![alttext](/Images/libertas_vel_mors_server_icon.png)
+    ![alttext](/Images/server_icon.png)
 
-* Libertas vel Mors MEE6 Icon
-    * ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_mee6_icon.png```
+* MEE6 Icon
+    * ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 
-    ![alttext](/Images/libertas_vel_mors_mee6_icon.png)
+    ![alttext](/Images/mee6_icon.png)
 
 ### 02/04/24 – 10:48 AM EST
 #### Libertas vel Mors
-* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_mee6_icon.png```
+* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Header: ```MEE6```
-* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_mee6_icon.png```
+* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Title: ```Libertas vel Mors```
 * "Write your message here!: N/A
 * Field 1 Name: ```Welcome to the Libertas vel Mors Discord community server!```
@@ -55,9 +55,9 @@ Icons:
     ```
 
 #### Rules
-* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_mee6_icon.png```
+* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Header: ```MEE6```
-* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Libertas-vel-Mors---Discord-Community-Server/main/Images/libertas_vel_mors_mee6_icon.png```
+* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Title: ```Libertas vel Mors```
 * "Write your message here!: N/A
 * Field 1 Name: ```Rules```

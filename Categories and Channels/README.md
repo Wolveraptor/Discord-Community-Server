@@ -4,7 +4,7 @@ Discord community server categories and channels.
 ## About Categories and Channels
 This README.md serves as documentation and changelog for my Discord community server categories and channels.
 
-![alttext](/Images/libertas_vel_mors_server_icon.png)
+![alttext](/Images/server_icon.png)
 
 ## Format and Example
 Below is an explanation of how categories and channels are documented within this README.md.
