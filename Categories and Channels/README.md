@@ -750,3 +750,52 @@ Example:
     * V: 🔊・New World
     * V: 🔊・Palworld
     * V: 🔊・Satisfactory
+
+### 03/13/24 – 12:25 PM EST
+* C: Cyber Sanctuary
+    * T: 📌・cyber-sanctuary
+    * T: 🚨・rules
+        * Configured as “Rules or Guidelines Channel” within Discord server “Server Settings” → “Community” → “Overview”.
+    * T: 📢・announcements
+        * Configured as “Announcements” channel.
+    * T: 🪪・roles
+    * T: 🏡・members
+* C: MEE6 Logs
+    * T: 📖・mee6-logs
+* C: Arcane Premium Logs
+    * T: 📖・arcane-premium-member-logs
+    * T: 📖・arcane-premium-message-logs
+    * T: 📖・arcane-premium-server-logs
+    * T: 📖・arcane-premium-voice-logs
+* C: Staff
+    * T: 🛟・moderator-only
+        * Configured as “Community Updates Channel” within Discord server “Server Settings” → “Community” → “Overview”.
+    * T: 🔔・safety-notifications
+        * Configured as “Safety Notifications Channel” within Discord server “Server Settings” → “Community” → “Overview”.
+    * T: 📖・automod-logs
+        * Configured as alert channel for actions taken by Discord's AutoMod.
+    * T: 🚧・github
+        * Configured as "Webhook" update channel for GitHub events.
+    * T: 🤖・bot-spam
+    * T: 💬・general
+    * V: 🔊・General
+    * V: 🤝・Meeting
+* C: General
+    * T: 🤖・bot-spam
+    * T: 💬・general
+    * V: 🔊・General
+    * V: 💤・Away From Keyboard
+        * Configured as “Inactive Channel” with an “Inactive Timeout” of 5 minutes within Discord server “Server Settings” → “Libertas vel Mors” → “Overview”.
+* C: Gaming
+    * T: 💬・diablo-iv
+    * T: 💬・guild-wars-2
+    * T: 💬・last-epoch
+    * T: 💬・new-world
+    * T: 💬・palworld
+    * T: 💬・satisfactory
+    * V: 🔊・Diablo IV
+    * V: 🔊・Guild Wars 2
+    * V: 🔊・Last Epoch
+    * V: 🔊・New World
+    * V: 🔊・Palworld
+    * V: 🔊・Satisfactory
