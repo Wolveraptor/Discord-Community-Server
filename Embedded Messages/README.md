@@ -75,7 +75,7 @@ Icons:
     ```
 
 ### 03/04/24 – 12:21 PM EST
-#### Libertas vel Mors
+#### Cyber Sanctuary
 * Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 * Header: ```MEE6```
 * Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
