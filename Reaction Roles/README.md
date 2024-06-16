@@ -14,7 +14,7 @@ Icons:
 * MEE6 Icon
     * ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
 
-    ![alttext](/Images/libertas_vel_mors_mee6_icon.png)
+    ![alttext](/Images/mee6_icon.png)
 
 * Arcane Premium Icon
     * ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/arcane_premium_icon.png```
