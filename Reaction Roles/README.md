@@ -206,3 +206,40 @@ Icons:
     * MacOS
     * Ubuntu
     * Windows
+
+### 09/28/24 – 12:59 AM EST
+#### Roles
+##### Gaming Roles
+* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
+* Header: ```MEE6```
+* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
+* Title: ```Roles```
+* "Write your message here!: N/A
+* Field 1 Name: ```Gaming Roles```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to gaming roles.
+    ```
+* Buttons:
+    * Guild Wars 2
+    * Last Epoch
+    * Once Human
+    * Palworld
+    * Satisfactory
+
+#### Roles
+##### Operating System Roles
+* Avatar Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
+* Header: ```MEE6```
+* Thumbnail Image: ```https://raw.githubusercontent.com/Wolveraptor/Discord-Community-Server/main/Images/mee6_icon.png```
+* Title: ```Roles```
+* "Write your message here!: N/A
+* Field 1 Name: ```Operating System Roles```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to operating system roles.
+    ```
+* Buttons:
+    * MacOS
+    * Ubuntu
+    * Windows
