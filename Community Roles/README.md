@@ -35,3 +35,6 @@ This README.md serves as documentation and changelog for my Discord community se
 
 ### 06/16/24 - 10:43 AM EST
 * [/Community Roles/Community Roles - 061624.csv](/Community%20Roles/Community%20Roles%20-%20061624.csv)
+
+### 09/28/24 – 12:59 AM EST
+* [/Community Roles/Community Roles - 092824.csv](/Community%20Roles/Community%20Roles%20-%20092824.csv)
